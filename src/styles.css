@@ -1,0 +1,16 @@
+/* src/styles.css */
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    line-height: 1.6;
+    padding-top: 60px; /* Adjust based on navbar height */
+    background-image: url('C:\Users\91933\Desktop\photo-1685633225077-820d5c7eb123.jpg');
+  }
+  
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
